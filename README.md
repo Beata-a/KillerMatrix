@@ -16,4 +16,6 @@ WIP ## Power BI Dashboard
 
 
 View the interactive Power BI report here:
-[Open Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYTAxZmI1M2YtNDJmNC00MjI1LWE0NzItYzRhNzFkMmRkOWYyIiwidCI6ImQwNzA5Zjg0LTc5OTgtNGE3OS1iOGVkLTcyNTA1OWY5Y2I0MiJ9&pageName=409e7f3b775a2e0b7725)
+[Open Power BI Report](https://app.powerbi.com/reportEmbed?reportId=7053b13b-e581-46f5-9cf8-fe144c52cacc&autoAuth=true&ctid=d0709f84-7998-4a79-b8ed-725059f9cb42)
+
+
