@@ -1,9 +1,9 @@
 # KillerMatrix
 Tracking Evil Across the Globe
 
-WIP ## Power BI Dashboard
+WIP ## Power BI Report
 
-
+(SCREENSHOTS ARE OUTDATED) 
 ![1 Landing Page](https://github.com/user-attachments/assets/e0cfb110-3006-4773-b314-f96c8ab9d0cc)
 
 ![2  Top Countries  (4)](https://github.com/user-attachments/assets/2ab22719-2fd0-4532-a0da-4de29fa09528)
