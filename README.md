@@ -1,4 +1,4 @@
-# KillerMatrix
+# Killer Matrix
 #   Tracking Evil Across the Globe
 
 Hey all you cool cats and kittens,
@@ -20,7 +20,7 @@ Kaggle.com
 
 Killer.cloud
 
-SQLBI (Youtube)- Filter Top X, with "Others" Category
+SQLBI (Youtube) - Filter Top X, with "Others" Category
 
 Access Analytic (YouTube) - Power BI Conditional formatting using Measures
 
