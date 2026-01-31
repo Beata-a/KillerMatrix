@@ -15,7 +15,7 @@ I started with a list of just over 400 serial killers. After cleaning the data, 
 
 With the model in place, I began creating the DAX measures that would drive the analysis - totals, averages, medians, Top N logic, dynamic titles, and conditional formatting. From there, I designed a multi‑page Power BI report that blends narrative and analysis. Each page focuses on a different angle: global patterns, country‑level profiles, and behavioural trends like zodiac signs and birth dates. I aimed for a clean, accessible layout with guided insights, interactive slicers, and consistent styling so the report feels cohesive and easy to explore.
 
-BIG THANKS TO 
+# BIG THANKS TO 
 Kaggle.com
 Killer.cloud
 SQLBI (Youtube)- Filter Top X, with "Others" Category
@@ -23,6 +23,8 @@ Access Analytic (YouTube) - Power BI Conditional formatting using Measures
 r/PBI
 Copilot
 ChatGPT
+
+# Screenshots 
 
 ![1 Home Page](https://github.com/user-attachments/assets/dbaa2ec5-81ef-480b-9f56-70baa44f04a1)
 
@@ -33,6 +35,7 @@ ChatGPT
 ![4  Country - Colombia](https://github.com/user-attachments/assets/5b60fb8f-af79-4b09-994f-4a1139e6db24)
 
 ![4  Country - South Korea](https://github.com/user-attachments/assets/5f7e10e4-d466-43da-901d-d2a06bb22c13)
+
 
 View the interactive Power BI report here:
 [Open Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMmVjZGJhN2UtMDNlYS00NjUyLTljZmUtMzFiNTU5MjcxZDM1IiwidCI6ImQwNzA5Zjg0LTc5OTgtNGE3OS1iOGVkLTcyNTA1OWY5Y2I0MiJ9)
