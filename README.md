@@ -17,11 +17,17 @@ With the model in place, I began creating the DAX measures that would drive the 
 
 # BIG THANKS TO 
 Kaggle.com
+
 Killer.cloud
+
 SQLBI (Youtube)- Filter Top X, with "Others" Category
+
 Access Analytic (YouTube) - Power BI Conditional formatting using Measures
+
 r/PBI
+
 Copilot
+
 ChatGPT
 
 # Screenshots 
